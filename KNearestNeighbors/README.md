@@ -15,4 +15,4 @@ pip install numpy scikit-learn matplotlib
 ## Dataset Overview
 The Wine dataset contains 178 samples of wine and 13 chemical features. The objective is to classify these samples into three different classes of wine.
 
-##Accuracy : 96.30%
+## Accuracy : 96.30%
